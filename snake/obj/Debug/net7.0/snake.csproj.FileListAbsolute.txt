@@ -1,0 +1,15 @@
+/Users/antonromaskin/geekbrains/oop/snake/snake/bin/Debug/net7.0/snake
+/Users/antonromaskin/geekbrains/oop/snake/snake/bin/Debug/net7.0/snake.deps.json
+/Users/antonromaskin/geekbrains/oop/snake/snake/bin/Debug/net7.0/snake.runtimeconfig.json
+/Users/antonromaskin/geekbrains/oop/snake/snake/bin/Debug/net7.0/snake.dll
+/Users/antonromaskin/geekbrains/oop/snake/snake/bin/Debug/net7.0/snake.pdb
+/Users/antonromaskin/geekbrains/oop/snake/snake/obj/Debug/net7.0/snake.csproj.AssemblyReference.cache
+/Users/antonromaskin/geekbrains/oop/snake/snake/obj/Debug/net7.0/snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonromaskin/geekbrains/oop/snake/snake/obj/Debug/net7.0/snake.AssemblyInfoInputs.cache
+/Users/antonromaskin/geekbrains/oop/snake/snake/obj/Debug/net7.0/snake.AssemblyInfo.cs
+/Users/antonromaskin/geekbrains/oop/snake/snake/obj/Debug/net7.0/snake.csproj.CoreCompileInputs.cache
+/Users/antonromaskin/geekbrains/oop/snake/snake/obj/Debug/net7.0/snake.dll
+/Users/antonromaskin/geekbrains/oop/snake/snake/obj/Debug/net7.0/refint/snake.dll
+/Users/antonromaskin/geekbrains/oop/snake/snake/obj/Debug/net7.0/snake.pdb
+/Users/antonromaskin/geekbrains/oop/snake/snake/obj/Debug/net7.0/snake.genruntimeconfig.cache
+/Users/antonromaskin/geekbrains/oop/snake/snake/obj/Debug/net7.0/ref/snake.dll
