@@ -1,4 +1,23 @@
-﻿<Properties StartupConfiguration="{8A7BBAFD-EC34-4B09-9939-28608B966389}|Default">
-  <MonoDevelop.Ide.ItemProperties.snake FirstBuild="True" />
+﻿<Properties StartupConfiguration="{E614E441-BD9B-45D3-B118-8AC54B59CD1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Figure.cs">
+    <Files>
+      <File FileName="Program.cs" Line="28" Column="2" />
+      <File FileName="Point.cs" />
+      <File FileName="HorizontalLine.cs" Line="23" Column="26" />
+      <File FileName="VerticalLine.cs" Line="17" Column="1" />
+      <File FileName="Figure.cs" Line="2" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="snake" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.snake PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
