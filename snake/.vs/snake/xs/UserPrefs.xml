@@ -1,23 +1,34 @@
-﻿<Properties StartupConfiguration="{E614E441-BD9B-45D3-B118-8AC54B59CD1F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Figure.cs">
+﻿<Properties StartupConfiguration="{8A7BBAFD-EC34-4B09-9939-28608B966389}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="VerticalLine.cs">
     <Files>
-      <File FileName="Program.cs" Line="28" Column="2" />
-      <File FileName="Point.cs" />
-      <File FileName="HorizontalLine.cs" Line="23" Column="26" />
-      <File FileName="VerticalLine.cs" Line="17" Column="1" />
-      <File FileName="Figure.cs" Line="2" Column="12" />
+      <File FileName="Program.cs" NotebookId="1" />
+      <File FileName="VerticalLine.cs" Line="15" Column="10" NotebookId="1" />
+      <File FileName="Figure.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="1123" Y="458" Width="1333" Height="706">
+        <Files>
+          <File FileName="HorizontalLine.cs" Line="1" Column="1" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="snake" expanded="True" selected="True" />
+          <Node name="snake" expanded="True">
+            <Node name="snake" expanded="True">
+              <Node name="VerticalLine.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.snake PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
